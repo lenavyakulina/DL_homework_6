@@ -8,4 +8,4 @@ The InteractiveVis project of the Oxford Internet Institute with funding by JISC
 
 More information about the project is available on the project blog:
 http//blogs.oii.ox.ac.uk/vis/
-
+https://lenavyakulina.github.io/DL_homework_6/
